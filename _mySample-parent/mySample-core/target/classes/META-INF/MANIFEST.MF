@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: mySample-core
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: imasmohamed
+Implementation-Vendor-Id: lk.inova.mysample.core
+Build-Jdk: 1.8.0_05
+Implementation-URL: http://projects.spring.io/spring-boot/_mySample-pa
+ rent/mySample-core/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

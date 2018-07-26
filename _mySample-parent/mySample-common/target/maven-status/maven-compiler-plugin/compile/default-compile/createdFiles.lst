@@ -1,0 +1,5 @@
+lk\inova\mysample\domain\Request.class
+lk\inova\mysample\domain\AppUserRequest.class
+lk\inova\mysample\domain\Response.class
+lk\inova\mysample\domain\AppUserResponse.class
+lk\inova\mysample\common\entities\AppUser.class
